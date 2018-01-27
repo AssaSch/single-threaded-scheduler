@@ -1,0 +1,627 @@
+2017:10:08 16:56:06.437 5937 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:56:06.473 5937 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:56:06.476 5937 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:56:06.480 5937 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:56:06.480 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.480 5937 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 16:56:06.480 5937 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:56:06.480 5937 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:56:06.481 5937 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:56:06.481 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.483 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.483 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.484 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.484 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.484 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.484 5937 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:56:06.486 5937 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:56:06.487 5937 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:56:06.488 5937 0 I periodicExecutor.c 143 run command
+2017:10:08 16:56:06.489 5937 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:56:06.489 5937 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:56:06.489 5937 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:56:06.513 5937 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:56:06.514 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.514 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.514 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.514 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.514 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.514 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.515 5937 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:56:06.515 5937 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:56:06.490 5937 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:56:06.490 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.490 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.490 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.491 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.491 5937 0 I periodicExecutor.c 110 add command
+2017:10:08 16:56:06.491 5937 0 I periodicExecutor.c 131 added task
+2017:10:08 16:56:06.491 5937 0 I periodicExecutor.c 143 run command
+2017:10:08 16:56:06.511 5937 0 I periodicExecutor.c 214 pause command
+2017:10:08 16:56:06.512 5937 0 I periodicExecutor.c 223 pause
+2017:10:08 16:56:06.512 5937 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 16:56:06.512 5937 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:43.999 5943 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 143 run command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:43.999 5943 0 I periodicExecutor.c 143 run command
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 214 pause command
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 223 pause
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 16:59:44.020 5943 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.345 5946 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 143 run command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.345 5946 0 I periodicExecutor.c 143 run command
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 214 pause command
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 223 pause
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.366 5946 0 I periodicExecutor.c 143 run command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 214 pause command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 223 pause
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:45.402 5946 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:53.977 5947 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:54.013 5947 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:54.017 5947 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:54.020 5947 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:54.020 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.021 5947 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 16:59:54.021 5947 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:54.021 5947 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:54.021 5947 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:54.022 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.023 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.024 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.024 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.025 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.025 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.025 5947 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:54.027 5947 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:54.028 5947 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:54.028 5947 0 I periodicExecutor.c 143 run command
+2017:10:08 16:59:54.029 5947 0 I periodicExecutor.c 185 finish run command
+2017:10:08 16:59:54.030 5947 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:54.030 5947 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:54.053 5947 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:54.053 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.053 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.054 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.054 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.054 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.054 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.054 5947 0 I periodicExecutor.c 86 destroy command
+2017:10:08 16:59:54.054 5947 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 16:59:54.030 5947 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 16:59:54.030 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.030 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.031 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.031 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.031 5947 0 I periodicExecutor.c 110 add command
+2017:10:08 16:59:54.031 5947 0 I periodicExecutor.c 131 added task
+2017:10:08 16:59:54.031 5947 0 I periodicExecutor.c 143 run command
+2017:10:08 16:59:54.051 5947 0 I periodicExecutor.c 214 pause command
+2017:10:08 16:59:54.052 5947 0 I periodicExecutor.c 223 pause
+2017:10:08 16:59:54.052 5947 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 16:59:54.052 5947 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:03.273 5948 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:03.312 5948 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:03.315 5948 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:03.318 5948 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:03.318 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.319 5948 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 17:00:03.319 5948 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:03.319 5948 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:03.319 5948 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:03.320 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.321 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.322 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.323 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.323 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.323 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.323 5948 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:03.325 5948 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:03.326 5948 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:03.326 5948 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:03.327 5948 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:03.328 5948 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:03.328 5948 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:03.354 5948 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:03.355 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.355 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.355 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.355 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.355 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.356 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.356 5948 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:03.356 5948 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:03.328 5948 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:03.328 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.329 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.329 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.329 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.329 5948 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:03.329 5948 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:03.329 5948 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:03.352 5948 0 I periodicExecutor.c 214 pause command
+2017:10:08 17:00:03.353 5948 0 I periodicExecutor.c 223 pause
+2017:10:08 17:00:03.353 5948 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 17:00:03.353 5948 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:11.879 5949 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:11.916 5949 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:11.919 5949 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:11.922 5949 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:11.923 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.923 5949 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 17:00:11.923 5949 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:11.923 5949 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:11.924 5949 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:11.924 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.926 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.926 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.927 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.927 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.927 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.927 5949 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:11.929 5949 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:11.930 5949 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:11.930 5949 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:11.932 5949 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:11.932 5949 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:11.932 5949 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:11.955 5949 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:11.955 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.955 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.955 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.956 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.956 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.956 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.956 5949 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:11.956 5949 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:11.932 5949 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:11.933 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.933 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.933 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.933 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.933 5949 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:11.933 5949 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:11.934 5949 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:11.953 5949 0 I periodicExecutor.c 214 pause command
+2017:10:08 17:00:11.954 5949 0 I periodicExecutor.c 223 pause
+2017:10:08 17:00:11.954 5949 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 17:00:11.954 5949 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:22.139 5954 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:22.175 5954 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:22.178 5954 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:22.181 5954 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:22.181 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.181 5954 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 17:00:22.182 5954 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:22.182 5954 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:22.182 5954 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:22.182 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.184 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.185 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.185 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.186 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.186 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.186 5954 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:22.188 5954 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:22.189 5954 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:22.189 5954 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:22.190 5954 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:22.191 5954 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:22.191 5954 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:22.214 5954 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:22.214 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.214 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.214 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.214 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.215 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.215 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.215 5954 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:22.215 5954 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:22.191 5954 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:22.191 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.191 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.192 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.192 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.192 5954 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:22.192 5954 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:22.192 5954 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:22.212 5954 0 I periodicExecutor.c 214 pause command
+2017:10:08 17:00:22.212 5954 0 I periodicExecutor.c 223 pause
+2017:10:08 17:00:22.213 5954 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 17:00:22.213 5954 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:26.545 5956 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.546 5956 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.546 5956 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 214 pause command
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 223 pause
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.567 5956 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 214 pause command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 223 pause
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:26.603 5956 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:49.718 5966 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:49.754 5966 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:49.757 5966 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:49.761 5966 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:49.761 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.761 5966 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 17:00:49.762 5966 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:49.762 5966 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:49.762 5966 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:49.762 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.764 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.765 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.765 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.766 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.766 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.766 5966 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:49.768 5966 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:49.769 5966 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:49.769 5966 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:49.771 5966 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:49.771 5966 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:49.771 5966 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:49.771 5966 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:49.772 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.772 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.772 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.772 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.772 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.772 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.772 5966 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:49.793 5966 0 I periodicExecutor.c 214 pause command
+2017:10:08 17:00:49.793 5966 0 I periodicExecutor.c 223 pause
+2017:10:08 17:00:49.793 5966 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 17:00:49.794 5966 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:49.794 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.794 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.794 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.794 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.794 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.795 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.795 5966 0 I periodicExecutor.c 143 run command
+2017:10:08 17:00:49.832 5966 0 I periodicExecutor.c 214 pause command
+2017:10:08 17:00:49.832 5966 0 I periodicExecutor.c 223 pause
+2017:10:08 17:00:49.832 5966 0 I periodicExecutor.c 185 finish run command
+2017:10:08 17:00:49.832 5966 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:49.832 5966 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 17:00:49.834 5966 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 17:00:49.834 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.834 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.834 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.835 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.835 5966 0 I periodicExecutor.c 110 add command
+2017:10:08 17:00:49.835 5966 0 I periodicExecutor.c 131 added task
+2017:10:08 17:00:49.835 5966 0 I periodicExecutor.c 86 destroy command
+2017:10:08 17:00:49.835 5966 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:31:25.710 3943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:31:25.745 3943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:31:25.748 3943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:31:25.751 3943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:31:25.752 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.752 3943 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 20:31:25.752 3943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:31:25.752 3943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:31:25.753 3943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:31:25.753 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.754 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.755 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.756 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.756 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.756 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.756 3943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:31:25.758 3943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:31:25.759 3943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:31:25.759 3943 0 I periodicExecutor.c 143 run command
+2017:10:08 20:31:25.760 3943 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:31:25.761 3943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:31:25.761 3943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:31:25.825 3943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:31:25.825 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.825 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.825 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.826 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.826 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.826 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.826 3943 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:31:25.827 3943 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:31:25.761 3943 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:31:25.761 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.762 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.762 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.762 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.762 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.762 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.762 3943 0 I periodicExecutor.c 143 run command
+2017:10:08 20:31:25.783 3943 0 I periodicExecutor.c 214 pause command
+2017:10:08 20:31:25.784 3943 0 I periodicExecutor.c 223 pause
+2017:10:08 20:31:25.784 3943 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 20:31:25.784 3943 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:31:25.785 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.785 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.785 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.786 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.786 3943 0 I periodicExecutor.c 110 add command
+2017:10:08 20:31:25.786 3943 0 I periodicExecutor.c 131 added task
+2017:10:08 20:31:25.786 3943 0 I periodicExecutor.c 143 run command
+2017:10:08 20:31:25.823 3943 0 I periodicExecutor.c 214 pause command
+2017:10:08 20:31:25.823 3943 0 I periodicExecutor.c 223 pause
+2017:10:08 20:31:25.824 3943 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:32:07.137 4131 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:07.174 4131 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:07.178 4131 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:07.181 4131 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:07.181 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.181 4131 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 20:32:07.182 4131 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:07.182 4131 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:07.182 4131 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:07.183 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.184 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.185 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.185 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.186 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.186 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.186 4131 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:07.188 4131 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:07.189 4131 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:07.189 4131 0 I periodicExecutor.c 143 run command
+2017:10:08 20:32:07.191 4131 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:32:07.191 4131 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:07.191 4131 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:07.253 4131 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:07.254 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.254 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.254 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.254 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.255 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.255 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.255 4131 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:07.256 4131 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:07.191 4131 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:07.192 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.192 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.192 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.192 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.192 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.192 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.193 4131 0 I periodicExecutor.c 143 run command
+2017:10:08 20:32:07.215 4131 0 I periodicExecutor.c 214 pause command
+2017:10:08 20:32:07.216 4131 0 I periodicExecutor.c 223 pause
+2017:10:08 20:32:07.216 4131 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 20:32:07.216 4131 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:32:07.216 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.217 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.217 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.217 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.217 4131 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:07.217 4131 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:07.217 4131 0 I periodicExecutor.c 143 run command
+2017:10:08 20:32:07.252 4131 0 I periodicExecutor.c 214 pause command
+2017:10:08 20:32:07.252 4131 0 I periodicExecutor.c 223 pause
+2017:10:08 20:32:07.252 4131 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:32:52.967 4163 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:53.004 4163 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:53.008 4163 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:53.012 4163 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:53.012 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.012 4163 0 F periodicExecutor.c 114 error - executor not exist - Add
+2017:10:08 20:32:53.013 4163 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:53.013 4163 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:53.014 4163 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:53.014 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.016 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.016 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.017 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.017 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.017 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.017 4163 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:53.019 4163 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:53.020 4163 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:53.020 4163 0 I periodicExecutor.c 143 run command
+2017:10:08 20:32:53.022 4163 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:32:53.022 4163 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:53.022 4163 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:53.023 4163 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:53.023 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.023 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.023 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.023 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.024 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.024 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.024 4163 0 I periodicExecutor.c 143 run command
+2017:10:08 20:32:53.048 4163 0 I periodicExecutor.c 214 pause command
+2017:10:08 20:32:53.048 4163 0 I periodicExecutor.c 223 pause
+2017:10:08 20:32:53.049 4163 0 I periodicExecutor.c 179 TASK DESTROYED
+2017:10:08 20:32:53.049 4163 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:32:53.049 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.049 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.049 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.050 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.050 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.050 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.050 4163 0 I periodicExecutor.c 143 run command
+2017:10:08 20:32:53.085 4163 0 I periodicExecutor.c 214 pause command
+2017:10:08 20:32:53.086 4163 0 I periodicExecutor.c 223 pause
+2017:10:08 20:32:53.086 4163 0 I periodicExecutor.c 185 finish run command
+2017:10:08 20:32:53.086 4163 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:53.087 4163 0 I periodicExecutor.c 99 destroy executor
+2017:10:08 20:32:53.088 4163 0 I periodicExecutor.c 64 creation of executor
+2017:10:08 20:32:53.088 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.088 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.089 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.089 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.090 4163 0 I periodicExecutor.c 110 add command
+2017:10:08 20:32:53.090 4163 0 I periodicExecutor.c 131 added task
+2017:10:08 20:32:53.090 4163 0 I periodicExecutor.c 86 destroy command
+2017:10:08 20:32:53.091 4163 0 I periodicExecutor.c 99 destroy executor
+2018:01:27 12:14:10.930 4223 0 I modules/periodicExecutor.c 64 creation of executor
+2018:01:27 12:14:10.930 4223 0 I modules/periodicExecutor.c 86 destroy command
+2018:01:27 12:14:10.930 4223 0 I modules/periodicExecutor.c 99 destroy executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 64 creation of executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.931 4223 0 F modules/periodicExecutor.c 114 error - executor not exist - Add
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 86 destroy command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 99 destroy executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 64 creation of executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 86 destroy command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 99 destroy executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 64 creation of executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 143 run command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 185 finish run command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 86 destroy command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 99 destroy executor
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 64 creation of executor
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 86 destroy command
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 99 destroy executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 64 creation of executor
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 110 add command
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 131 added task
+2018:01:27 12:14:10.931 4223 0 I modules/periodicExecutor.c 143 run command
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 214 pause command
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 223 pause
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 179 TASK DESTROYED
+2018:01:27 12:14:10.952 4223 0 I modules/periodicExecutor.c 185 finish run command

@@ -1,0 +1,2 @@
+logger.o: logger.c logger.h
+logger_test.o: logger_test.c logger.h mu_test.h

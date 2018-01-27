@@ -1,0 +1,16 @@
+executor_container.o: modules/executor_container.c \
+ modules/execute_container.h modules/task.h modules/periodicExecutor.h \
+ genBinaryHeap/genericHeap.h genBinaryHeap/generic_vector.h \
+ genBinaryHeap/generic_vector.h
+executor_test.o: modules/executor_test.c modules/periodicExecutor.h \
+ genBinaryHeap/mu_test.h
+task.o: modules/task.c modules/task.h modules/periodicExecutor.h \
+ modules/timeTools.h
+timeTools.o: modules/timeTools.c modules/timeTools.h
+periodicExecutor.o: modules/periodicExecutor.c modules/periodicExecutor.h \
+ modules/task.h modules/execute_container.h logger/logger.h
+genBinaryHeap.o: genBinaryHeap/genBinaryHeap.c \
+ genBinaryHeap/genericHeap.h genBinaryHeap/generic_vector.h
+generic_vector.o: genericVector/generic_vector.c \
+ genericVector/generic_vector.h
+logger.o: logger/logger.c logger/logger.h
